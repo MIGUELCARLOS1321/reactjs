@@ -24,7 +24,7 @@ function App() {
 
   return (
     <div>
-      <h1 className='head'><center>Miguel Carlos</center></h1>
+      <h1 className='head'><center>Calculator of Miguel Carlos - IT3A</center></h1>
       <div className="container">
         <div className="calculator">
           <form action="">
